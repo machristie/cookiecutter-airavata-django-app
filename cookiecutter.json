@@ -5,6 +5,7 @@
   "app_config_class_name": "{{ cookiecutter.project_name | slugify(separator=' ') | title | replace(' ', '') }}Config",
   "version": "0.1.0",
   "_copy_without_render": [
-      "*.html"
+      "*.html",
+      ".github/workflows/*.yml"
   ]
 }
