@@ -1,3 +1,5 @@
+# This repo is archived, please use https://github.com/apache/airavata-cookiecutter-django-app instead!
+
 # Custom Airavata Django App Cookiecutter
 
 ## Quickstart
